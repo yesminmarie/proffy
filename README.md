@@ -54,7 +54,7 @@ $ cd server
 # Install the dependencies
 $ yarn
 
-#Run the Migrates
+# Run the Migrations
 $ yarn knex:migrate
 
 # Start the client
