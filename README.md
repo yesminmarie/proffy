@@ -60,7 +60,7 @@ $ yarn knex:migrate
 # Start the client
 $ yarn start
 
-# The server will start at the port: 3333 - go to http: // localhost: 3333
+# The server will start at the port: 3333 - go to http://localhost:3333
 
 ```
 
@@ -77,7 +77,7 @@ $ yarn
 # Start the client
 $ yarn start
 
-# The application will open at the port: 3000 - go to http: // localhost: 3000
+# The application will open at the port: 3000 - go to http://localhost:3000
 
 ```
 
@@ -94,7 +94,7 @@ $ yarn
 # Start the client
 $ yarn start
 
-# The application will open at the port: 19002 - go to http: // localhost: 19002
+# The application will open at the port: 19002 - go to http://localhost:19002
 
 # Download the app "expo" in your smartphone and scan the QR Code
 
