@@ -1,6 +1,6 @@
 <h1 align="center">Proffy</h1>
 <p align="center">
-<img src="https://ik.imagekit.io/nplka5fxu0/Proffy_EohzJM-Sj.gif" alt="Proffy"/>
+<img src="https://github.com/yesminmarie/proffy/blob/master/screenshot_proffy.gif" alt="Proffy"/>
 </p>
 
 <p align="center">This project has been built on the Next Level Week 2 (NLW#02) from Rocketseat.</p>
